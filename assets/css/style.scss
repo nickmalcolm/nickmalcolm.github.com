@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#555;
+  font-weight:300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+}
+
+header p, footer p {
+  margin-bottom: 0;
+}
+
+
+p a:hover{
+  font-weight: 300;
+}
+
+ul.posts {
+  list-style-type: none;
+}
+
+code, pre {
+  font-size: 90%;
+}
