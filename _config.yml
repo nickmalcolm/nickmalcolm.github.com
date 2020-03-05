@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Homepage and blog for Nick Malcolm
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nick.malcolm.net.nz" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:short_year:month:day-:title
+permalink: /blog/:short_year:month:day-:title
 
 twitter_username: nickmalcolm
 github_username:  nickmalcolm
