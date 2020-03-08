@@ -15,11 +15,14 @@ This blog is updated now and again with talks I've given, thoughts I've had, and
 
 ## Latest Posts
 
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 {{ post.excerpt }}
-<a href="{{ post.url }}">Read more...</a>
+
+[Continue reading...]({{ post.url }})
 
 ---
 {% endfor %}
+
+Showing the latest 3 posts. **[Read older posts...](/blog)**
 

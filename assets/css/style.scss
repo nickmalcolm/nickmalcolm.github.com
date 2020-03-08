@@ -25,6 +25,7 @@ header p, footer p {
 a:hover, a:focus, a:visited {
   font-weight: 300;
 }
+strong a:hover {font-weight: 600}
 
 ul.posts {
   list-style-type: none;
