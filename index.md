@@ -3,23 +3,22 @@ permalink: /
 title: Home
 ---
 
-### Kia Ora!
+## Kia Ora!
 
 <img alt="Nick Malcolm" height="192" src="/assets/images/nicks_face.jpg" style="padding-left: 20px;float: right;">
 
-I'm a senior consultant at [Aura Information Security](https://www.aurainfosec.com), where my main focus is on application security. I help teams understand and adopt pragmatic security practices at the right time in the software development lifecycle, so that security is built in from the beginning. I work with teams of all sizes; from government departments and large banks, through to startups and small businesses.
+I'm Nick, an application security consultant, a public speaker, a trainer, a sometime software developer, and most importantly of all a dad and husband. [Read more about me...](/about)
 
- 
-My previous role was at [SafeStack](https://safestack.io) as a security consultant, and before that as CTO at [ThisData](https://thisdata.com), a security API which protected millions of people across the globe from account takeover attacks.
+This blog is updated now and again with talks I've given, thoughts I've had, and things I hope others can learn from.
 
+---
 
-Things that push my buttons include: helping people solve their problems using my techy skills, cyber security, building stuff with Ruby on Rails, writing, and presenting at meetups and conferences.
+## Latest Posts
 
+{% for post in site.posts %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<div><p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<br />&nbsp;<br /><a href="{{ post.url }}">Read more...</a></p></div>
 
-I like to spend time with my wife and two boys, sing, play guitar, go to church, run, and hax on side projects.
+---
+{% endfor %}
 
-![Nick speaking at ITx 2016](/assets/images/itx.jpg)
-[Presenting at ITx 2016](https://itx.nz/Programme/68/All-aboard-the-Cyber-Security-Rollercoaster)
-{: style="text-align: center;"}
-
-If you'd like to get in touch, you can guess my email address! (replace a dot with an @).

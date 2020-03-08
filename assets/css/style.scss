@@ -11,6 +11,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
+
+  a:hover {
+    font-weight: 600;
+  }
 }
 
 header p, footer p {
@@ -18,7 +22,7 @@ header p, footer p {
 }
 
 
-p a:hover{
+a:hover {
   font-weight: 300;
 }
 
@@ -28,4 +32,9 @@ ul.posts {
 
 code, pre {
   font-size: 90%;
+}
+
+blockquote em {
+  margin-bottom: 20px;
+  display: block;
 }
