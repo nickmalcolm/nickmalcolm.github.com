@@ -22,7 +22,7 @@ header p, footer p {
 }
 
 
-a:hover {
+a:hover, a:focus, a:visited {
   font-weight: 300;
 }
 
@@ -37,4 +37,17 @@ code, pre {
 blockquote em {
   margin-bottom: 20px;
   display: block;
+}
+
+.alert {
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+
+  strong {color: #31708f;}
 }
