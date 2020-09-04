@@ -13,7 +13,7 @@ My current role is a security consultant at [Aura Information Security](https://
 Things that push my buttons include: helping people solve their problems using my techy skills, cyber security, building stuff with Ruby on Rails, writing, and presenting at meetups and conferences.
 
 
-I like to spend time with my wife and two boys, sing, play guitar, go to church, run, and hax on side projects.
+I like to spend time with my wife and two boys, sing, play guitar, go to church, run, and work on side projects.
 
 ![Nick speaking at ITx 2016](/assets/images/itx.jpg)
 [Presenting at ITx 2016](https://itx.nz/Programme/68/All-aboard-the-Cyber-Security-Rollercoaster)
