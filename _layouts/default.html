@@ -34,12 +34,12 @@
           </a>
         </p>
 
-        <p class="view">
+        <p class="view hidden-mobile">
           &nbsp;
         </p>
 
         {% if site.twitter_username %}
-          <p class="view">
+          <p class="view hidden-mobile">
             <a href="https://twitter.com/{{ site.twitter_username }}">
               Twitter
             </a>
@@ -47,19 +47,19 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-          <p class="view">
+          <p class="view hidden-mobile">
             <a href="{{ site.github.owner_url }}">Github</a>
           </p>
         {% endif %}
 
         {% if site.linkedin_url %}
-          <p class="view">
+          <p class="view hidden-mobile">
             <a href="{{ site.linkedin_url }}">LinkedIn</a>
           </p>
         {% endif %}
 
         {% if site.slideshare_url %}
-          <p class="view">
+          <p class="view hidden-mobile">
             <a href="{{ site.slideshare_url }}">SlideShare</a>
           </p>
         {% endif %}
@@ -69,10 +69,29 @@
 
         {{ content }}
 
-        <img alt="shielded" id="shielded-logo" src="https://shielded.co.nz/img/custom-logo.png">
+        
       </section>
       <footer>
         
+        <p class="show-mobile">
+          Find me on 
+          {% if site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              Twitter
+            </a>
+            {% if site.github.is_user_page %}
+              <a href="{{ site.github.owner_url }}">Github</a>
+            {% endif %}
+            {% if site.linkedin_url %}
+              <a href="{{ site.linkedin_url }}">LinkedIn</a>
+            {% endif %}
+            {% if site.slideshare_url %}
+              <a href="{{ site.slideshare_url }}">SlideShare</a>
+            {% endif %}
+          {% endif %}
+        </p>
+
+        <img alt="shielded" id="shielded-logo" src="https://shielded.co.nz/img/custom-logo.png">
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

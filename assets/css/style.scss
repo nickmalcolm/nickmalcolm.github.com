@@ -9,6 +9,14 @@ body {
   font-weight:300;
 }
 
+header {
+  width: 240px
+}
+section {
+  width: 600px;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
 
@@ -55,9 +63,33 @@ blockquote em {
 
 #shielded-logo {
   cursor: pointer;
-  margin: 20px auto;
   display: inherit;
   float: right;
   width: 42px;
   height: 42px;
+}
+
+.show-mobile {
+  display: none
+}
+
+@media print, screen and (max-width: 960px) {
+  header p {
+    display: inline;
+    padding-right: 20px;
+  }
+  .hidden-mobile {
+    display: none;
+  }
+  .show-mobile {
+    display: block;
+  }
+}
+
+footer {
+  font-size: 80%;
+  line-height: 42px;
+  margin: 20px auto;
+  width: 100%;
+  position: initial;
 }
