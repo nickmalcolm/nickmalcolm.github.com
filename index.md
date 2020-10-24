@@ -5,7 +5,7 @@ title: Home
 
 ## Kia Ora!
 
-<img alt="Nick Malcolm" height="192" src="/assets/images/nicks_face.jpg" style="padding-left: 20px;float: right;">
+<img alt="Nick Malcolm" height="128" src="/assets/images/nicks_face.jpg" style="padding-left: 20px;float: right;">
 
 I'm Nick, an information security consultant, a public speaker, a trainer, a sometimes software developer, and - most important of all - a dad and husband. [Read more about me...](/about)
 
