@@ -5,9 +5,9 @@ date:   2020-10-24 12:00 +1300
 excerpt_separator: <!--more-->
 ---
 
-Most who have worked in an Agile team will be familiar with user stories and use cases. _"As a millenial in their 30s, I want access to 90s cartoons, so I can bask in nostalgia"_. Many teams go further and identify ways a system can be misused or "hacked", and worked to prevent those. But not enough get past misuse cases.
+Most who have worked in an Agile team will be familiar with user stories and use cases. _"As a millenial in their 30s, I want access to 90s cartoons, so I can bask in nostalgia"_. Many teams go further and identify ways a system can be misused or "hacked", and worked to prevent those to make the system secure. But not enough get past misuse cases, and work to keep people _safe_.
 
-In this post - by way of examples - I want to talk about "abuse cases", as distinct from misuse cases. In short: misuse cases are how users might unintentionally or intentionally misuse the features of your product. Abuse cases are how _users might abuse other users with_ your product. The features are technically working as intended, but are facilitating abuse.
+In this post - by way of examples - I want to talk about "abuse cases", as distinct from misuse cases. In short: misuse cases are how users might unintentionally or intentionally misuse the features of your product. Abuse cases are how _humans might abuse other humans with_ your product. The features are technically working as intended, but are facilitating abuse. 
 
 <!--more-->
 
@@ -17,7 +17,7 @@ Product teams should consider all three types of use cases when architecting sys
 
 The more diverse the voices on your team, the better placed you are to recall or imagine misuse or abuse cases.
 
-The misuse and abuse cases below contain references to the real-life stories, where applicable.
+The misuse and abuse cases below contain references to the real-life stories, where applicable. I am not the first nor the best person to write about this, so please seek out other voices if this post resonates with you.
 
 ## Misuse Cases
 
