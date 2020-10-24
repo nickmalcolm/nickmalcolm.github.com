@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Misuse & Abuse cases"
+title: "Misuse & Abuse Cases"
 date:   2020-10-24 12:00 +1300
 excerpt_separator: <!--more-->
 ---
@@ -16,6 +16,8 @@ Product teams should consider all three types of use cases when architecting sys
 <center><strong>Include diverse voices in your team and stakeholders, and listen to their lived experiences</strong><br />&nbsp;<br /></center>
 
 The more diverse the voices on your team, the better placed you are to recall or imagine misuse or abuse cases.
+
+The misuse and abuse cases below contain references to the real-life stories, where applicable.
 
 ## Misuse Cases
 
