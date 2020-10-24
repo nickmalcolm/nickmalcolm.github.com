@@ -15,7 +15,7 @@ Product teams should consider all three types of use cases when architecting sys
 
 <center><strong>Include diverse voices in your team and stakeholders, and listen to their lived experiences</strong><br />&nbsp;<br /></center>
 
-The more diverse the voices on your team, the better placed you are to recall or imagine misuse or abuse cases.
+The more diverse the voices on your team, the better placed you are to recall or imagine misuse or abuse cases. Also realise that many people **won't feel safe** to talk about this topic, and you need to be sensitive to that.
 
 The misuse and abuse cases below contain references to the real-life stories, where applicable. I am not the first nor the best person to write about this, so please seek out other voices if this post resonates with you.
 
@@ -60,11 +60,15 @@ Here are some abuse cases (all intentional):
       + Detect / Prevent: [add a confirmation message when messages look mean](https://web.archive.org/web/20200721195006/https://about.instagram.com/blog/announcements/instagrams-commitment-to-lead-fight-against-online-bullying/)
       + Respond: [allow users to report abusive content](https://web.archive.org/web/20200721195006/https://about.instagram.com/blog/announcements/instagrams-commitment-to-lead-fight-against-online-bullying/)
 
+And these examples aren't even getting into mis- or dis-information, or other types of abuse!
+
 ## Closing thoughts
 
-A huge caveat: I am just me, and I have only a few examples. I have led a privileged and pretty much abuse-less life! As development teams, we need to hear and listen to a diverse set of users to understand the types of abuse cases they might or do face.
+When you next write a user story, think to yourself "what are we doing to make our system _safe_ for the people using it?" 
 
-At your next team meeting, ask "how might people abuse others through our product, how can we find out, and what are we going to do about it?"
+Remember - this topic brings up real pain felt by people. You can try to start this conversation with your team, but be sensitive. Don't single out team members who might be "more likely" to have answers. Don't force people to talk about it if they don't want to.
+
+A huge caveat: I am just me, and I have only a few examples. I have led a privileged and pretty much abuse-less life! I have written this post because I have worked with too many development teams where this conversation is not being had.
 
 ### Read More
 
