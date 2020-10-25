@@ -13,7 +13,7 @@ _"What's the difference between privacy and confidentiality??"_ It's a question 
 
 <!--more-->
 
-They're like overlapping Venn Diagrams. 
+Below I provide a brief introduction to the Privacy Princples. You'll see that Privacy is broader than Confidentiality, but that Confidentiality encompasses parts of "Principle 5 - Storage and security" and "Principle 11 - Disclosure", and even "Principle 6 - Access" and "Principle 10 - Use". Privacy and Confidentiality are like overlapping Venn diagrams.
 
 ## Privacy Principles
 
@@ -32,7 +32,7 @@ Our Privacy Act breaks these out in 12 ([soon to be 13](https://www.privacy.org.
   - **Principle 11 - Disclosure** - don't share a person's information with others unless you're allowed
   - **Principle 12 - Unique identifiers** - don't make people give you unique IDs (drivers licence, IRD number, etc) unless you need it for one of its intended purposes
 
-The thirteenth privacy principle will be about only sending personal information overseas (e.g. to most cloud hosting services) if you have ensured the receiving party will safeguard it.
+The new privacy principle will be about only sending personal information overseas (e.g. to most cloud hosting services) if you have ensured the receiving party will safeguard it.
 
 The Office of the Privacy Commissioner has [some great written content](https://www.privacy.org.nz/), [free online training](https://www.privacy.org.nz/further-resources/online-privacy-training-free/), and [how project teams can understand  privacy obligations with a Privacy Impact Assessment](https://www.privacy.org.nz/news-and-publications/guidance-resources/privacy-impact-assessment/). Check it out!
 
