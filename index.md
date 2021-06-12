@@ -9,7 +9,7 @@ title: Home
 
 I'm Nick, an information security consultant, a public speaker, a trainer, a sometimes software developer, and - most important of all - a dad and husband. [Read more about me...](/about)
 
-This blog is updated now and again with talks I've given, thoughts I've had, and things I hope others can learn from.
+This [blog](/blog) is updated now and again with talks I've given, thoughts I've had, and things I hope others can learn from. You can also check the [bookshelf](/bookshelf) for books I have loved and recommend.
 
 ---
 
