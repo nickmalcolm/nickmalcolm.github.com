@@ -7,7 +7,7 @@
 
 I'm Nick, and I work in information security, most often in application security roles. I help teams understand and adopt pragmatic security practices at the right time in the software development lifecycle, so that security is built in from the beginning. I work with teams of all sizes; from government departments and large banks, through to startups and small businesses.
  
-My current role is a security consultant at [Aura Information Security](https://www.aurainfosec.com). I was previously at [SafeStack](https://safestack.io) in a similar role and, before that, CTO at [ThisData](https://thisdata.com), a security API which protected millions of people across the globe from account takeover attacks.
+My current role is [an Application Security Engineer at GitLab](https://gitlab.com/nmalcolm). Before that I was a security consultant at [Aura Information Security](https://www.aurainfosec.com) and [SafeStack](https://safestack.io) and, before that, CTO at [ThisData](https://thisdata.com), a security API which protected millions of people across the globe from account takeover attacks.
 
 
 Things that push my buttons include: security, tech ethics, building stuff with Ruby on Rails, writing, and presenting at meetups and conferences.
