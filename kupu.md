@@ -4,7 +4,7 @@ title: "Reo Māori kupu (words) for games"
 
 # Reo Māori kupu (words) for games
 
-This is a list of kupu (words) that can be used in **drawing and guessing games** like Pictionary, [Skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/). 
+This is a list of kupu (words) that can be used in **drawing and guessing games** like Pictionary, [Skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/).
 
 It is aimed at being **beginner-friendly**. Here's how it works:
 
@@ -21,25 +21,31 @@ It is aimed at being **beginner-friendly**. Here's how it works:
 | Aotearoa | North Island - now more commonly used as the Māori name for New Zealand |
 | Te Waipounamu | the South Island |
 | Te Ika a Māui | the North Island |
-| tāne | man/men, husband(s)|
 | wahine | woman, wife (wāhine: women, wives) |
+| tāne | man/men, husband(s)|
+| kuīni | queen |
+| kīngi | king |
 | kāinga | home |
 | whare | house, building, residence, dwelling |
+| kura | school |
 | waka | canoe, canoe group, ocean-going vessel |
 | awa | river |
 | maunga | mountain |
 | wai | water |
 | moana | sea |
+| roto | lake |
 | motu | island, country, land |
 | ngahere | forest |
 | rākau | tree |
-| ponga | silver tree fern ([wikipedia](https://en.wikipedia.org/wiki/Silver_fern)) |
+| ponga | silver fern / tree fern ([wikipedia](https://en.wikipedia.org/wiki/silver_fern)) |
 | putiputi | flower |
 | āniwaniwa | rainbow |
 | whetū | star(s) |
 | rā | sun |
 | marama | moon |
 | rangi | sky |
+| pō | night |
+| ahi | fire |
 | arero | tongue |
 | ihu | nose |
 | māhunga | hair / head |
@@ -52,6 +58,9 @@ It is aimed at being **beginner-friendly**. Here's how it works:
 | waewae | foot/feet, leg/legs |
 | tūtae | poo |
 | waiata | song / to sing|
+| pukapuka | book |
+| pōtae | hat |
+| waka rererangi | airplane |
 | aroha | love |
 | taonga | treasured possession or cultural item, anything precious |
 | kai | food |
@@ -64,15 +73,17 @@ It is aimed at being **beginner-friendly**. Here's how it works:
 | hipi | sheep |
 | kau | cow |
 | heihei | chicken |
-| kiwi | endemic (native) flightless bird with a long beak ([wikipedia](https://en.wikipedia.org/wiki/Kiwi_(bird))) |
-| tuatara | endemic (native) reptile with baggy green-grey skin and spines down the back ([wikipedia](https://en.wikipedia.org/wiki/Tuatara))|
-| tūī | endemic (native) bird with glossy-black plumage and two white tufts at the throat ([wikipedia](https://en.wikipedia.org/wiki/T%C5%AB%C4%AB)) |
+| kiwi | endemic (native) flightless bird with a long beak ([wikipedia](https://en.wikipedia.org/wiki/kiwi_(bird))) |
+| tuatara | endemic (native) reptile with baggy green-grey skin and spines down the back ([wikipedia](https://en.wikipedia.org/wiki/tuatara))|
+| tūī | endemic (native) bird with glossy-black plumage and two white tufts at the throat ([wikipedia](https://en.wikipedia.org/wiki/t%c5%ab%c4%ab)) |
 | ika | fish |
-| kākāpō | endemic (native) flightless, large, green parrot with an owl-like face ([wikipedia](https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D)) |
+| kākāpō | endemic (native) flightless, large, green parrot with an owl-like face ([wikipedia](https://en.wikipedia.org/wiki/k%c4%81k%c4%81p%c5%8d)) |
 | manu | bird |
 | pūngāwerewere | spider(s) |
 | rāpeti | rabbit |
 | tuna | eel |
+| hōiho | horse |
+| kororā | penguin |
 
 Sources:
 
@@ -88,7 +99,7 @@ Notes:
 1. There can be multiple kupu for the same word in English, and not all will be in the table above. Provide your players with this list in case they learnt a different kupu.
 1. Some kupu may have different meanings to different iwi. I've done my best to double check using [MāoriDictionary.co.nz](https://maoridictionary.co.nz). Any errors are my own.
 1. To add words or make corrections, please contribute [via GitHub](https://github.com/nickmalcolm/nickmalcolm.github.com/).
-    1. Kupu should be relatively easy to draw and recognise. 
+    1. Kupu should be relatively easy to draw and recognise.
     1. Avoid kupu that might encourage drawing harmful or inaccurate stereotypes.
 
 ## Copy-pastable list
@@ -96,12 +107,12 @@ Notes:
 Skribble and Sketchful both accept comma-separated lists for their custom rooms. Macrons have been removed.
 
 ```
-Aotearoa, Te Waipounamu, Te Ika a Maui, tane, wahine,
-kainga, whare, waka, awa, maunga, wai, moana, motu,
-ngahere, rakau, ponga, putiputi, aniwaniwa, whetu,
-ra, marama, rangi, arero, ihu, mahunga, upoko, manawa,
-niho, puku, hope, ringa, waewae, tutae, waiata, aroha,
-taonga, kai, inu, miraka, aporo, arani, kuri, ngeru,
-hipi, kau, heihei, kiwi, tuatara, tui, ika, kakapo,
-manu, pungawerewere, rapeti, tuna
+Aotearoa, Te Waipounamu, Te Ika a Māui, wahine, tāne, kuīni, kīngi,
+kāinga, whare, kura, waka, awa, maunga, wai, moana, roto, motu,
+ngahere, rākau, ponga, putiputi, āniwaniwa, whetū, rā, marama,
+rangi, pō, ahi, arero, ihu, māhunga, upoko, manawa, niho, puku,
+hope, ringa, waewae, tūtae, waiata, pukapuka, pōtae,
+waka rererangi, aroha, taonga, kai, inu, miraka, āporo, ārani,
+kuri, ngēru, hipi, kau, heihei, kiwi, tuatara, tūī, ika, kākāpō,
+manu, pūngāwerewere, rāpeti, tuna, hōiho, kororā
 ```
